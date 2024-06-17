@@ -1,0 +1,6 @@
+@TaskAssignerApp.Server_HostAddress = http://localhost:5056
+
+GET {{TaskAssignerApp.Server_HostAddress}}/taskassignment/
+Accept: application/json
+
+###

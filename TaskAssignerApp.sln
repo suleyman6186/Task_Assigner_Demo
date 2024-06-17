@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAssignerApp.Server", "TaskAssignerApp.Server\TaskAssignerApp.Server.csproj", "{0FE56335-C359-4515-A8A3-1FB430ED9334}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "taskassignerapp.client", "taskassignerapp.client\taskassignerapp.client.esproj", "{DD297938-2AC8-4BB1-887D-58EAB1734EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE56335-C359-4515-A8A3-1FB430ED9334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE56335-C359-4515-A8A3-1FB430ED9334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE56335-C359-4515-A8A3-1FB430ED9334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE56335-C359-4515-A8A3-1FB430ED9334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD297938-2AC8-4BB1-887D-58EAB1734EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD297938-2AC8-4BB1-887D-58EAB1734EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD297938-2AC8-4BB1-887D-58EAB1734EBC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DD297938-2AC8-4BB1-887D-58EAB1734EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD297938-2AC8-4BB1-887D-58EAB1734EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD297938-2AC8-4BB1-887D-58EAB1734EBC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E41AEFA-6138-4FC2-862A-B7704C9DDF6A}
+	EndGlobalSection
+EndGlobal
